@@ -1,7 +1,7 @@
 Statische IPv4-Vergabe im FFTR-DHCP
 ===================================
 
-[Subnetze](http://trier.freifunk.net/)
+[Subnetze](https://trier.freifunk.net/geplante-aufteilung-der-segmente/)
 
  Wir haben nun bis zu 16 Segmente mit entsprechenden IPv4-Ranges 
 * seg_00 10.172.0.0 - 10.172.15.255  
